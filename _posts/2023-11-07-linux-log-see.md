@@ -1,10 +1,11 @@
 ---
-title:  "Linux Log 보기"
+title: "Linux Log 보기"
 categories:
   - Log
 tags:
   - Linux
   - Log
+excerpt: "Linux에서 Log를 출력하는 방법"
 ---
 
 개발을 하다 보면 오류가 발생하거나, 내가 구현한 로직이 정상적으로 돌아가는지 확인이 꼭 필요하죠.
