@@ -1,10 +1,9 @@
 ---
 title: "Linux Log 무중단 초기화"
 categories:
-  - Log
+  - Linux
 tags:
   - Linux
-  - Log
 excerpt: "서버를 중단하지 않고 Linux Log를 초기화 하는 방법"
 ---
 

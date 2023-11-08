@@ -1,10 +1,9 @@
 ---
 title: "Linux Log 보기"
 categories:
-  - Log
+  - Linux
 tags:
   - Linux
-  - Log
 excerpt: "Linux에서 Log를 출력하는 방법"
 ---
 
